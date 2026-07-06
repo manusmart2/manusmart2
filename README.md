@@ -1,4 +1,4 @@
-# Hi, I'm Manu 👋
+# Hi, I'm Manohar CH 👋
 
 **QA Professional → SOC Analyst** | Building hands-on security skills through practical labs and investigations
 
@@ -22,19 +22,19 @@
 
 Hands-on security projects demonstrating real analyst workflows — not just certifications.
 
+🔬 **[SOC Analyst Labs →](https://github.com/manusmart2/soc-analyst-labs)** — Full portfolio repository for resume and interviews
+
 | Project | Skills | Status |
 |---------|--------|--------|
-| [SOC Home Lab](SOC-Projects/SOC-Home-Lab/) | Splunk, Sysmon, Atomic Red Team, Windows logs | ✅ Documented |
-| [Splunk Detection Engineering](SOC-Projects/Splunk-Detection-Lab/) | 15+ detection rules, dashboards, MITRE mapping | ✅ Documented |
-| [Phishing Investigations](SOC-Projects/Phishing-Investigation/) | Email headers, SPF/DKIM/DMARC, VirusTotal | ✅ Documented |
-| [Python Security Automation](SOC-Projects/Python-Security-Scripts/) | IOC checker, log parser, VT API lookup | ✅ Scripts included |
-| [Incident Response Case Studies](SOC-Projects/Incident-Response/) | Timeline, IOCs, containment, recovery | ✅ Documented |
-| [Threat Hunting](SOC-Projects/Threat-Hunting/) | Hypothesis-driven hunts in Splunk | ✅ Documented |
-| [Malware Analysis (Static)](SOC-Projects/Malware-Analysis/) | PE analysis, hashes, IOC reports | ✅ Documented |
-| [Network Forensics](SOC-Projects/Network-Forensics/) | Wireshark, DNS/HTTP/SMB analysis | ✅ Documented |
-| [Vulnerability Assessment](SOC-Projects/Vulnerability-Assessment/) | Nmap, Nessus, CVSS prioritization | ✅ Documented |
-
-📁 **[View full portfolio →](SOC-Projects/)**
+| [SOC Home Lab](https://github.com/manusmart2/soc-analyst-labs/tree/main/SOC-Home-Lab) | Splunk, Sysmon, Atomic Red Team, Windows logs | ✅ Documented |
+| [Splunk Detection Engineering](https://github.com/manusmart2/soc-analyst-labs/tree/main/Splunk-Detection-Lab) | 15+ detection rules, dashboards, MITRE mapping | ✅ Documented |
+| [Phishing Investigations](https://github.com/manusmart2/soc-analyst-labs/tree/main/Phishing-Investigation) | Email headers, SPF/DKIM/DMARC, VirusTotal | ✅ Documented |
+| [Python Security Automation](https://github.com/manusmart2/soc-analyst-labs/tree/main/Python-Security-Scripts) | IOC checker, log parser, VT API lookup | ✅ Scripts included |
+| [Incident Response Case Studies](https://github.com/manusmart2/soc-analyst-labs/tree/main/Incident-Response) | Timeline, IOCs, containment, recovery | ✅ Documented |
+| [Threat Hunting](https://github.com/manusmart2/soc-analyst-labs/tree/main/Threat-Hunting) | Hypothesis-driven hunts in Splunk | ✅ Documented |
+| [Malware Analysis (Static)](https://github.com/manusmart2/soc-analyst-labs/tree/main/Malware-Analysis) | PE analysis, hashes, IOC reports | ✅ Documented |
+| [Network Forensics](https://github.com/manusmart2/soc-analyst-labs/tree/main/Network-Forensics) | Wireshark, DNS/HTTP/SMB analysis | ✅ Documented |
+| [Vulnerability Assessment](https://github.com/manusmart2/soc-analyst-labs/tree/main/Vulnerability-Assessment) | Nmap, Nessus, CVSS prioritization | ✅ Documented |
 
 ---
 
@@ -60,9 +60,9 @@ Hands-on security projects demonstrating real analyst workflows — not just cer
 
 ## Connect
 
-- 📫 Reach me via [GitHub Issues](https://github.com/manusmart2/manusmart2/issues) on this repo
+- 📧 [manoharch99@gmail.com](mailto:manoharch99@gmail.com)
 - 💼 Open to **entry-level SOC Analyst** and **Security Operations** roles
 
 ---
 
-*This is my GitHub profile repository. Project documentation, detection rules, scripts, and investigation templates live in [`SOC-Projects/`](SOC-Projects/).*
+*This is my GitHub profile repository. Full project documentation lives in [**soc-analyst-labs**](https://github.com/manusmart2/soc-analyst-labs).*
